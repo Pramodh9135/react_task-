@@ -1,0 +1,174 @@
+[
+    {
+        
+            "id":1,
+            "username":"Ramesh",
+            "email":"ramesh@gmail.com",
+            "phone":4333634233,
+            "website":"http://addgjasg.org",
+            "address": {
+            "street":"10th cross", 
+            "suite":"thigalarapalya", 
+            "city":"Bengaluru",
+            "zipcode":560058 },
+            "company": {
+            "previous":"TCS",
+            "current ":"Wipro" 
+            }
+    },
+    {
+        
+        "id":2,
+        "username":"Suresh",
+        "email":"suresh@gmail.com",
+        "phone":132422367,
+        "website":"http://hkdjhakg.org",
+        "address": {
+        "street":"1th cross", 
+        "suite":"rajajinagar", 
+        "city":"Bengaluru",
+        "zipcode":560098 },
+        "company": {
+        "previous":"ysidd",
+        "current ":"skdghag" 
+        }
+},
+{
+        
+    "id":3,
+    "username":"Raju",
+    "email":"raju@gmail.com",
+    "phone":7372322347,
+    "website":"http://yeuwewehjf.org",
+    "address": {
+    "street":"60th cross", 
+    "suite":"ramapura", 
+    "city":"Bengaluru",
+    "zipcode":560001 },
+    "company": {
+    "previous":"kejw",
+    "current ":"eurg" 
+    }
+},
+{
+        
+    "id":4,
+    "username":"Rupa",
+    "email":"rupa@gmail.com",
+    "phone":7532848,
+    "website":"http://hdgfnaghdf.org",
+    "address": {
+    "street":"5th cross", 
+    "suite":"yjdyqwu", 
+    "city":"Bengaluru",
+"zipcode":560028 },
+    "company": {
+    "previous":"djie",
+    "current ":"jwgeydiuhkh"
+    }
+},
+{
+        
+    "id":5,
+    "username":"Abhi",
+    "email":"abhi@gmail.com",
+    "phone":425637,
+    "website":"http://addgsdfghjkjasg.org",
+    "address": {
+    "street":"10th cross", 
+    "suite":"dfghj", 
+    "city":"Bengaluru",
+    "zipcode":560055 },
+    "company": {
+    "previous":"hgeyjd",
+    "current ":"rjekh" 
+    }
+},
+{
+        
+    "id":6,
+    "username":"Niki",
+    "email":"niki@gmail.com",
+    "phone":34874347,
+    "website":"http://add3dgjasg.org",
+    "address": {
+    "street":"10th cross", 
+    "suite":"jdfksd", 
+    "city":"Bengaluru",
+    "zipcode":560053 },
+    "company": {
+    "previous":"infosys",
+    "current ":"Wipro" 
+    }
+},
+{
+        
+    "id":7,
+    "username":"Akash",
+    "email":"akash@gmail.com",
+    "phone":7439324,
+    "website":"http://addghjfebghegjasg.org",
+    "address": {
+    "street":"10th cross", 
+    "suite":"jdhkewffdgewf", 
+    "city":"Bengaluru",
+    "zipcode":563058 },
+    "company": {
+    "previous":"eeehhw",
+    "current ":"Wqweegqwipro" 
+}
+},
+{
+        
+    "id":8,
+    "username":"Anil",
+    "email":"anil@gmail.com",
+    "phone":34567890,
+    "website":"http://dfghjk.org",
+    "address": {
+    "street":"10th cross", 
+    "suite":"fdgtyg", 
+    "city":"Bengaluru",
+    "zipcode":560038 },
+    "company": {
+    "previous":"isro",
+    "current ":"pnankg" 
+    }
+},
+{
+        
+    "id":9,
+    
+    "username":"Sheena",
+    "email":"sheena@gmail.com",
+    "phone":634327434,
+    "website":"http://dfsyhwjd.org",
+    "address": {
+    "street":"10th cross", 
+    "suite":"kerala", 
+    "city":"Bengaluru",
+    "zipcode":560058 },
+    "company": {
+    "previous":"mark",
+    "current ":"peopletree"
+    }
+},
+{
+        
+    "id":10,
+   
+    "username":"Vishwas",
+    "email":"surya@gmail.com",
+    "phone":33454567,
+    "website":"http://sury.org",
+    "address": {
+    "street":"10th cross", 
+    "suite":"peenya", 
+    "city":"Bengaluru",
+    "zipcode":560058 },
+    "company": {
+    "previous":"idfc",
+    "current ":"yes"
+    }
+}
+]
